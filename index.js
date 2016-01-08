@@ -37,6 +37,7 @@ module.exports = function(options) {
         'clipboard',
         'crash-reporter',
         'screen',
+        'serialport',
         'session',
         'shell'
       ]),
